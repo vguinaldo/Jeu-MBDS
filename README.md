@@ -10,3 +10,11 @@ dans ce survival game. Vous débutez avec 5 vies, cependant faites attention à 
 Ce jeu se joue avec la survie. Etes-vous prêts à relever le défi ?
 
 Bonne chance !
+
+
+Quelques points d'amélioration :
+
+-Au lieu que les bonus apparaissent à niveau défini, il aurait été bien qu'ils apparaissent des niveaux au hasard
+-Ajout de balle chercheuse
+-Augmenter le nombre de bonus
+-Faire un tableau des scores

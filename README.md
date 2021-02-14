@@ -15,6 +15,9 @@ Bonne chance !
 Quelques points d'amélioration :
 
 -Au lieu que les bonus apparaissent à niveau défini, il aurait été bien qu'ils apparaissent des niveaux au hasard
+
 -Ajout de balle chercheuse
+
 -Augmenter le nombre de bonus
+
 -Faire un tableau des scores
